@@ -59,4 +59,4 @@
 
 > Most of my contributions are personal projects, but I’m expanding my horizons for collaborations!
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poketho33&theme=dark" />
+<img align="center" src="https://streak-stats.demolab.com/?user=poketho33&theme=dark" alt="GitHub streak stats for poketho33" />
