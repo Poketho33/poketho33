@@ -20,10 +20,43 @@
 
 <h2 align="left"> Favorite Tech</h2>
 
-> Coming soon...
+> Tools and languages I like to work with, but I'm always interested in learning more.
 
-<!-- > Tools and languages I like to work with.
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a><img src="https://cdn.simpleicons.org/c/white" width="48" height="48" alt="C icon" /></a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://cdn.simpleicons.org/sharp/white" width="48" height="48" alt="C# icon" /></a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://cdn.simpleicons.org/unity/white" width="48" height="48" alt="Unity icon" /></a>
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://cdn.simpleicons.org/html5/white" width="48" height="48" alt="HTML5 icon" /></a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://cdn.simpleicons.org/css/white" width="48" height="48" alt="CSS icon" /></a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://cdn.simpleicons.org/javascript/white" width="48" height="48" alt="JS icon" /></a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" alt="NEXT.js icon" style="filter:invert" /></a>
+      <br>NEXT.js
+    </td>
+  </tr>
+</table>
 
 <h2 align="left" id="tech">Contributions</h2>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poketho33&theme=dark" /> -->
+> Most of my contributions are personal projects, but I’m expanding my horizons for collaborations!
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poketho33&theme=dark" />
