@@ -11,11 +11,10 @@
 
 <h2 align="left" id="aboutme">A little about me</h2>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1659363037/60402/popcorn.gif" width="30" align="middle" style="vertical-align: middle;" /> Favorite movie: **Spiderman: Into the Spider-Verse** (& more...)
-- <img src="https://emojis.slackmojis.com/emojis/images/1643515411/14304/celeste-strawberry.gif?1643515411" width="30" align="middle" style="vertical-align: middle;" /> Favorite game: **Celeste**
-- <img src="https://emojis.slackmojis.com/emojis/images/1714017490/92286/cryoffice-e.png?1714017490" width="30" align="middle" style="vertical-align: middle;" /> Always Down to Watch: **The Office**
+- <img src="https://emojis.slackmojis.com/emojis/images/1659363037/60402/popcorn.gif" width="30" align="middle" style="vertical-align: middle;" /> Favorite movie: **Spiderman: Into the Spider-Verse** [& more...]
+- <img src="https://emojis.slackmojis.com/emojis/images/1643515411/14304/celeste-strawberry.gif?1643515411" width="30" align="middle" style="vertical-align: middle;" /> Favorite game: **Celeste** [completion: 100%]
+- <img src="https://emojis.slackmojis.com/emojis/images/1714017490/92286/cryoffice-e.png?1714017490" width="30" align="middle" style="vertical-align: middle;" /> Always down to watch: **The Office**
 - <img src="https://emojis.slackmojis.com/emojis/images/1643510247/36373/pc.gif?1643510247" width="30" align="middle" style="vertical-align: middle;" /> Distro: **Fedora KDE**
-- <img src="https://emojis.slackmojis.com/emojis/images/1643516870/29227/speakers.gif?1643516870" width="30" align="middle" style="vertical-align: middle;" /> Coding Music: **Hip-hop**
 
 
 <h2 align="left"> Favorite Tech</h2>
