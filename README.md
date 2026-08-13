@@ -5,7 +5,7 @@
 <p>
 
 <p align="left">
-  <a href="https://poketho33.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/website?url=https://poketho33.github.io/Portfolio/"></a>
+  <a href="https://poketho33.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/website?url=https://www.thomaseleveld.com/"></a>
   <a href="https://github.com/Poketho33"><img src="https://komarev.com/ghpvc/?username=poketho33" alt="page views" /></a>
 </p>
 
